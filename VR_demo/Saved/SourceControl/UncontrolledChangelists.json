@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Daniel/Unreal Projects/VR_demo/Content/vr_demo_level.umap",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/BP_topdown.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/BP_NewWidgetBlueprint.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/BP_WidgetActor.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/NewTextureRenderTarget2D_Mat.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/NewTextureRenderTarget2D.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/Minimap_NewTextureRenderTarget2D_Mat.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/TopDownView.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/M_Topdown.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/NewCanvasRenderTarget2D.uasset",
+				"C:/Daniel/Unreal Projects/VR_demo/Content/B_widget.uasset"
+			]
+		}
+	]
+}
