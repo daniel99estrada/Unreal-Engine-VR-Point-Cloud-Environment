@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Daniel\\Unreal Projects\\VR_Demo2\\Source\\VR_Demo2\\VR_Demo2.Build.cs",
+		"C:\\Daniel\\Unreal Projects\\VR_Demo2\\Source\\VR_Demo2.Target.cs",
+		"C:\\Daniel\\Unreal Projects\\VR_Demo2\\Source\\VR_Demo2Editor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
